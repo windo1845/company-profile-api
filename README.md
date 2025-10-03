@@ -4,6 +4,12 @@ A simple backend to manage company profile data, with accessible API endpoints f
 
 ---
 
+## 🙏 Acknowledgements
+
+This project uses the [Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard) template by [Creative Tim](https://www.creative-tim.com).
+
+---
+
 ## 🔑 Login
 - **Email**: `superadmin`  
 - **Password**: `123`  
@@ -13,7 +19,7 @@ A simple backend to manage company profile data, with accessible API endpoints f
 ## 🗄️ Database
 The database file is located at: \database\dashboardsweb.sql
 
-
+---
 
 ## 📡 API Endpoints
 
@@ -49,15 +55,15 @@ The database file is located at: \database\dashboardsweb.sql
 
 ## 📊 Dashboard Preview
 
-### Preview 1
-![Preview 1](public/assets/img/preview/preview1.png)
+### Preview Login
+![Preview 1](public/assets/img/preview/capture1.png)
 
-### Preview 2
-![Preview 2](public/assets/img/preview/preview2.png)
+### Preview Home
+![Preview 2](public/assets/img/preview/capture2.png)
 
-### Preview 3
-![Preview 3](public/assets/img/preview/preview3.png)
+### Preview Master Table Website
+![Preview 3](public/assets/img/preview/capture3.png)
 
-### Preview 4
-![Preview 4](public/assets/img/preview/preview4.png)
+### Preview Master Table Menu
+![Preview 4](public/assets/img/preview/capture4.png)
 
