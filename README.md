@@ -1,6 +1,6 @@
 # Company Profile API
 
-A simple backend to manage company profile data, with accessible API endpoints for products, news, slides, videos, menus, and pages.
+A simple backend to manage one or multiple company profiles, with accessible API endpoints for products, news, slides, videos, menus, and pages.
 
 ---
 
