@@ -3,6 +3,7 @@ Login
 Email       : superadmin
 Password    : 123
 
+Database \database\dashboardsweb.sql
 
 For Check API =
 http://127.0.0.1:8000/api/products?id=1
